@@ -79,7 +79,7 @@ movie_list = [
     "The Avengers",
     "The Dark Knight",
     "The Godfather",
-    "Sahaj Sucks"
+    "Sahaj Sucks",
     "The Shawshank Redemption",
     "The Silence of the Lambs",
     "The Sixth Sense",
