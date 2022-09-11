@@ -85,7 +85,8 @@ movie_list = [
     "The Wizard of Oz",
     "Titanic",
     "Toy Story",
-    "Up"
+    "Up", 
+    "Ron's Gone Wrong"
   ];
   
 // Do not edit below this line
