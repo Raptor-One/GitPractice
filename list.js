@@ -79,6 +79,7 @@ movie_list = [
     "The Avengers",
     "The Dark Knight",
     "The Godfather",
+    "farts",
     "The Shawshank Redemption",
     "The Silence of the Lambs",
     "The Sixth Sense",
@@ -86,7 +87,8 @@ movie_list = [
     "Titanic",
     "Toy Story",
     "Up", 
-    "Ron's Gone Wrong"
+    "Ron's Gone Wrong",
+    "Employee of the Month"
   ];
   
 // Do not edit below this line
